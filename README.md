@@ -28,15 +28,15 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats-fast.vercel.app/api?username=cubetitled-ui&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;locale=ru&amp;card_width=620&amp;bg_color=00000000&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=58A6FF&amp;ring_color=58A6FF"
+      srcset="https://github-readme-stats.vercel.app/api?username=cubetitled-ui&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;locale=ru&amp;card_width=620&amp;bg_color=00000000&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=58A6FF&amp;ring_color=58A6FF"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-fast.vercel.app/api?username=cubetitled-ui&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;locale=ru&amp;card_width=620&amp;bg_color=00000000&amp;title_color=0969DA&amp;text_color=24292F&amp;icon_color=0969DA&amp;ring_color=0969DA"
+      srcset="https://github-readme-stats.vercel.app/api?username=cubetitled-ui&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;locale=ru&amp;card_width=620&amp;bg_color=00000000&amp;title_color=0969DA&amp;text_color=24292F&amp;icon_color=0969DA&amp;ring_color=0969DA"
       media="(prefers-color-scheme: light)"
     />
     <img
-      src="https://github-readme-stats-fast.vercel.app/api?username=cubetitled-ui&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;locale=ru&amp;card_width=620&amp;bg_color=00000000&amp;title_color=0969DA&amp;text_color=24292F&amp;icon_color=0969DA&amp;ring_color=0969DA"
+      src="https://github-readme-stats.vercel.app/api?username=cubetitled-ui&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;locale=ru&amp;card_width=620&amp;bg_color=00000000&amp;title_color=0969DA&amp;text_color=24292F&amp;icon_color=0969DA&amp;ring_color=0969DA"
       width="620"
       alt="GitHub stats"
     />
@@ -46,15 +46,15 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cubetitled-ui&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;card_width=550&amp;custom_title=Самые%20используемые%20языки&amp;bg_color=00000000&amp;title_color=58A6FF&amp;text_color=C9D1D9"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cubetitled-ui&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;card_width=550&amp;custom_title=Самые%20используемые%20языки&amp;bg_color=00000000&amp;title_color=58A6FF&amp;text_color=C9D1D9"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cubetitled-ui&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;card_width=550&amp;custom_title=Самые%20используемые%20языки&amp;bg_color=00000000&amp;title_color=0969DA&amp;text_color=24292F"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cubetitled-ui&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;card_width=550&amp;custom_title=Самые%20используемые%20языки&amp;bg_color=00000000&amp;title_color=0969DA&amp;text_color=24292F"
       media="(prefers-color-scheme: light)"
     />
     <img
-      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cubetitled-ui&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;card_width=620&amp;custom_title=Самые%20используемые%20языки&amp;bg_color=00000000&amp;title_color=0969DA&amp;text_color=24292F"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cubetitled-ui&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;card_width=620&amp;custom_title=Самые%20используемые%20языки&amp;bg_color=00000000&amp;title_color=0969DA&amp;text_color=24292F"
       width="620"
       alt="Самые используемые языки"
     />
