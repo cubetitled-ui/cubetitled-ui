@@ -1,15 +1,15 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=800&height=80&lines=%F0%9F%A4%96+AI+%2B+C%2B%2B+Developer;Building+the+Future+with+Intelligence"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=800&height=80&lines=AI+%2B+C%2B%2B+Developer;Building+the+Future+with+Intelligence"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=24292F&center=true&vCenter=true&repeat=false&width=800&height=80&lines=%F0%9F%A4%96+AI+%2B+C%2B%2B+Developer;Building+the+Future+with+Intelligence"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=24292F&center=true&vCenter=true&repeat=false&width=800&height=80&lines=AI+%2B+C%2B%2B+Developer;Building+the+Future+with+Intelligence"
       media="(prefers-color-scheme: light)"
     />
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=24292F&center=true&vCenter=true&repeat=false&width=800&height=80&lines=%F0%9F%A4%96+AI+%2B+C%2B%2B+Developer;Building+the+Future+with+Intelligence"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=24292F&center=true&vCenter=true&repeat=false&width=800&height=80&lines=AI+%2B+C%2B%2B+Developer;Building+the+Future+with+Intelligence"
       alt="AI + C++ Developer"
     />
   </picture>
@@ -18,12 +18,12 @@
 ---
 
 <p align="center">
-  <em>🚀 Разрабатываю интеллектуальные решения на стыке <strong>Искусственного Интеллекта</strong> и <strong>высокопроизводительного C++</strong></em>
+  <em>Разрабатываю интеллектуальные решения на стыке <strong>Искусственного Интеллекта</strong> и <strong>высокопроизводительного C++</strong></em>
 </p>
 
 ---
 
-## 🛠️ Мой стек технологий
+## Мой стек технологий
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -35,10 +35,10 @@
   </a>
 </p>
 
-### 💡 Основные направления:
-- 🤖 **Искусственный интеллект**: Machine Learning, Deep Learning, NLP, Computer Vision
-- ⚡ **C++**: High-performance computing, системное программирование, оптимизация
-- 🔧 **Инструменты**: Docker, CI/CD, Git, Linux
+### Основные направления:
+- **Искусственный интеллект**: Machine Learning, Deep Learning, NLP, Computer Vision
+- **C++**: High-performance computing, системное программирование, оптимизация
+- **Инструменты**: Docker, CI/CD, Git, Linux
 
 ---
 
@@ -81,6 +81,6 @@
 ---
 
 <p align="center">
-  <em>💫 Всегда открыт для интересных проектов в области AI и C++ разработки</em><br>
-  <strong>📫 Свяжитесь со мной, чтобы обсудить сотрудничество!</strong>
+  <em>Всегда открыт для интересных проектов в области AI и C++ разработки</em><br>
+  <strong>Свяжитесь со мной, чтобы обсудить сотрудничество!</strong>
 </p>
