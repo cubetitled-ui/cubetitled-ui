@@ -1,86 +1,45 @@
-<p align="center">
-  <picture>
-    <source
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=800&height=80&lines=AI+%2B+C%2B%2B+Developer;Building+the+Future+with+Intelligence"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=24292F&center=true&vCenter=true&repeat=false&width=800&height=80&lines=AI+%2B+C%2B%2B+Developer;Building+the+Future+with+Intelligence"
-      media="(prefers-color-scheme: light)"
-    />
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=24292F&center=true&vCenter=true&repeat=false&width=800&height=80&lines=AI+%2B+C%2B%2B+Developer;Building+the+Future+with+Intelligence"
-      alt="AI + C++ Developer"
-    />
-  </picture>
+### <img src="https://api.iconify.design/pixelarticons/terminal.svg?color=%2358a6ff" width="20" height="20" valign="middle" /> cubetitled
+
+Founder at **[arka-lm](https://github.com/arka-lm)**.  
+Researching recurrent/spiking architectures, memory-budgeted network design, and tinkering with Linux.
+
+---
+
+#### <img src="https://api.iconify.design/pixelarticons/zap.svg?color=%237ee787" width="18" height="18" valign="middle" /> Projects
+
+- **[arka-lm/axiomrnn](https://github.com/arka-lm/axiomrnn)** — neural network design for the memory budget you actually have.
+  - Pure-Python network planner
+  - Extendable recurrent & spiking kernel with verified gradients
+- **[AngelOS-Dotfiles](https://github.com/cubetitled-ui/AngelOS-Dotfiles)** — Ubuntu port of the CachyOS + Niri pixel street-art rice with an automated `install.sh`.
+
+---
+
+#### <img src="https://api.iconify.design/pixelarticons/code.svg?color=%23ffa657" width="18" height="18" valign="middle" /> Stack
+
+<p>
+  <img src="./icons/python.svg" width="46" height="46" alt="Python" title="Python" />
+  <img src="./icons/pytorch.svg" width="46" height="46" alt="PyTorch" title="PyTorch" />
+  <img src="./icons/tensorflow.svg" width="46" height="46" alt="TensorFlow" title="TensorFlow" />
+  <img src="./icons/transformers.svg" width="46" height="46" alt="Transformers" title="Transformers" />
+  <img src="./icons/cpp.svg" width="46" height="46" alt="C++" title="C++" />
+  <img src="./icons/cuda.svg" width="46" height="46" alt="CUDA" title="CUDA" />
+  <img src="./icons/rocm.svg" width="46" height="46" alt="ROCm" title="ROCm" />
+  <br />
+  <img src="./icons/vulkan.svg" width="46" height="46" alt="Vulkan" title="Vulkan" />
+  <img src="./icons/linux.svg" width="46" height="46" alt="Linux" title="Linux" />
+  <img src="./icons/docker.svg" width="46" height="46" alt="Docker" title="Docker" />
+  <img src="./icons/git.svg" width="46" height="46" alt="Git" title="Git" />
+  <img src="./icons/bash.svg" width="46" height="46" alt="Bash" title="Bash" />
+  <img src="./icons/zsh.svg" width="46" height="46" alt="Zsh" title="Zsh" />
+  <img src="./icons/aeza.svg" width="46" height="46" alt="Aeza" title="Aeza" />
 </p>
 
 ---
 
-<p align="center">
-  <em>Разрабатываю программы на стыке <strong>Искусственного Интеллекта</strong> и <strong>высокопроизводительного C++</strong></em>
-</p>
-
----
-
-## Мой стек технологий
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=cpp,python,tensorflow,pytorch,opencv,docker,bash,git,linux,vscode,cmake,aws&perline=8&theme=dark"
-      height="180"
-      alt="skills"
-    />
-  </a>
-</p>
-
-### Основные направления:
-- **Искусственный интеллект**: Machine Learning, Deep Learning, NLP, Computer Vision
-- **C++**: High-performance computing, системное программирование, оптимизация
-- **Инструменты**: Docker, CI/CD, Git, Linux
-
----
-
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats-fast.vercel.app/api?username=cubetitled-ui&show_icons=true&hide_border=true&count_private=true&locale=ru&card_width=620&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-fast.vercel.app/api?username=cubetitled-ui&show_icons=true&hide_border=true&count_private=true&locale=ru&card_width=620&bg_color=00000000&title_color=0969DA&text_color=24292F&icon_color=0969DA&ring_color=0969DA"
-      media="(prefers-color-scheme: light)"
-    />
-    <img
-      src="https://github-readme-stats-fast.vercel.app/api?username=cubetitled-ui&show_icons=true&hide_border=true&count_private=true&locale=ru&card_width=620&bg_color=00000000&title_color=0969DA&text_color=24292F&icon_color=0969DA&ring_color=0969DA"
-      width="620"
-      alt="GitHub stats"
-    />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cubetitled-ui&layout=compact&hide_border=true&langs_count=8&card_width=550&custom_title=Самые%20используемые%20языки&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cubetitled-ui&layout=compact&hide_border=true&langs_count=8&card_width=550&custom_title=Самые%20используемые%20языки&bg_color=00000000&title_color=0969DA&text_color=24292F"
-      media="(prefers-color-scheme: light)"
-    />
-    <img
-      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cubetitled-ui&layout=compact&hide_border=true&langs_count=8&card_width=620&custom_title=Самые%20используемые%20языки&bg_color=00000000&title_color=0969DA&text_color=24292F"
-      width="620"
-      alt="Самые используемые языки"
-    />
-  </picture>
-</p>
-
----
-
-<p align="center">
-  <em>Всегда открыт для интересных проектов в области AI и C++ разработки</em><br>
-  <strong>Свяжитесь со мной, чтобы обсудить сотрудничество!</strong>
+<p>
+  <a href="https://t.me/migasakur178"><img src="https://api.iconify.design/pixelarticons/message.svg?color=%23d2a8ff" width="16" height="16" valign="middle" /> @migasakur178</a>
+  &nbsp;·&nbsp;
+  <a href="https://t.me/SILENTJOOM"><img src="https://api.iconify.design/pixelarticons/radio-signal.svg?color=%23d2a8ff" width="16" height="16" valign="middle" /> @SILENTJOOM</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/arka-lm"><img src="https://api.iconify.design/pixelarticons/git-branch.svg?color=%23d2a8ff" width="16" height="16" valign="middle" /> arka-lm</a>
 </p>
